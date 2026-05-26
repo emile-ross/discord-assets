@@ -53,7 +53,7 @@
       "#222222"
     ],
     "STATUS_ONLINE": [
-      "#32CD32"
+      "#32cd32"
     ],
     "STATUS_POSITIVE_TEXT": [
       "#ffffff"
@@ -158,10 +158,10 @@
       "#fff200"
     ],
     "STATUS_POSITIVE": [
-      "#32CD32"
+      "#32cd32"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#32CD32"
+      "#32cd32"
     ]
   },
   "rawColors": {
@@ -200,7 +200,7 @@
     "YELLOW_630": "#ffffff",
     "YELLOW_660": "#ffffff",
     "YELLOW_700": "#ffffff",
-    "RED_430": "#009Aff",
+    "RED_430": "#009aff",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#ffffff",
