@@ -35,9 +35,10 @@ https://raw.githubusercontent.com/emile-ross/discord-assets/main/fonts_kettu/Jet
 
 ### JetBrainsMonoNL font link:
 
-(Not complete)
+This is a version of the JetbrainMono font but without ligatures 
+(when two letters like a and e "ae" are joined together to form a single glyph)
 
 ```
-https://raw.githubusercontent.com/emile-ross/discord-assets/main/fonts_kettu/JetBrainsMono/jetbrains.json
+https://raw.githubusercontent.com/emile-ross/discord-assets/main/fonts_kettu/JetBrainsMonoNL/jetbrains-nl.json
 ```
 
